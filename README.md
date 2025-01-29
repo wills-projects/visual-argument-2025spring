@@ -7,9 +7,9 @@ As with the sound project, the context for your argument is open: you could be m
 As you start planning your composition, consider: What ideas do *you* want help remembering? Or what do you want to persuade others of? Is there something you've noticed that you want to bring to the attention of others? See if any terms or images come to mind when you think of your subject, then work back and forth from image to word and back.
 
 ## Generative constraints
+_to be updated in lesson 12_ \
 
 **Baseline Criteria** \
-_to be updated in lesson 12_ \
 For a minimum grade of B, all projects for this unit **must**…
 
 * Use arrangement, size, color, visual rhythm, and/or contrast to focus and guide viewers' attention.
@@ -65,7 +65,7 @@ Unless otherwise noted, materials are expected by 10pm on the following dates, s
 
 If you find yourself coming up on proposal day and you're not sure what to propose, try one of these:
 
-1. _Make a Cover Image for Your Audio Narrative_. You've just completed a project in which sound is everything. But how will you get people to open the track and start listening? Design a visual teaser that draws your audience in and convinces them to stick around. If you want, you can also present your audio project as just one in an imagined series, and use your visual argument to advertise that larger whole. 
+1. _Make a Cover Image for Your Audio Narrative_. You've just completed a project in which sound is everything. But how will you get people to open the track and start listening? Design a visual teaser that draws your audience in and convinces them to stick around. If you want, you can also present your audio project as just one in an imagined series, and use your visual argument to advertise that larger whole.
 2. _Illuminate a Word_. Choose one word to be the centerpiece of your canvas, and show us what it denotes, what it connotes, what associations the word brings in. Use any effects, colors, textures you want, but make sure the word itself is still legible – and don't use any other words. (This assignment is based on one mentioned by Madeline Sorapure in ["Playing Lev Manovich"](http://kairos.technorhetoric.net/8.2/coverweb/sorapure/); to see examples, open [the video version](https://sorapure.net/five.mp4) and jump to 7:30. See also https://www.kid-at-art.com/htdoc/members/lesson70.html.)
 3. _Advertise a Course_. Think about the classes you've taken that are under-appreciated, maybe even at risk of being under-enrolled. Create *either* an 8.5x11" print flier *or* a 16:9 ratio digital poster to be distributed around the hallways, bulletin boards, and/or tables of the university, alerting people to the awesomeness that would ensue if they enroll in that course. (You've probably seen some professors' attempts at these; they're all over the English department, at least, and on the screens in the G-level elevator lobby of the Cathedral.) Include the course title and a brief description; you can skip the date and time, or make one up.
 
