@@ -14,6 +14,8 @@ A few options to consider:
 
 NB: Because you can edit selection anchors until you're satisfied, you'll want to **press Enter**, double-click inside the selection, or switch to another tool **to confirm the selection.**
 
+If you're a more visual learner and want to see some options in video form, check out [5 Ways to Remove a Background with GIMP](https://www.youtube.com/watch?v=lOzSiOIipSM) from Logos By Nick (runtime 6:42).
+
 
 ## Pasting objects
 ### A new layer in the same file
