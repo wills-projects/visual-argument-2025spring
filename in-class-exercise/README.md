@@ -5,7 +5,9 @@ The idea of this exercise is to practice extracting an image from its context, s
 Starting with the image of a hot-air balloon (beverly-and-pack--fly-me-to-the-moon.jpg), experiment with the following GIMP tools / approaches to select just the balloon (or just the moon, etc). Once it's selected, you can copy it and paste it into a new layer where it can be resized, repositioned, recolored, etc.
 
 ## Selecting objects
+
 A few options to consider:
+
 * **Scissors select** (edge detection). Using a series of single clicks, trace your way around the border between the foreground and the background. If the contrast is high enough, GIMP should automatically curve the selection lasso along the boundary line.
 * **Fuzzy select** ("magic wand"). This tool detects contiguous pixels based on color similarities. You can adjust the sensitivity (ie. how similar is "similar"?) in the tool options pane. It's often particularly useful to select a relatively monochrome _background_, allowing you to then Invert Selection to extract a foreground object.
 * **Additive/subtractive selection**. With all the select tools, you can hold down combinations of control, shift, and alt/command to change whether you're _replacing_ an existing selection (the default), _adding_ to it, _subtracting_ from it, or finding the _intersection_ between old and new. Try it with the **shape select** (i.e. rectangle or ellipse) and **free select** (lasso) tools – or with either AI-assisted tool above – to iteratively get closer to the selection you want.
@@ -31,4 +33,3 @@ Play around with the selection tools and moving objects from one background to a
 ## Manipulating objects
 
 Most GIMP transformation tools act on layers, rather than on selections. Once you have multiple layers in your project, see what happens if you try the Move tool, the Scale tool, etc...
-
