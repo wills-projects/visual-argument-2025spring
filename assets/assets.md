@@ -4,6 +4,8 @@
 
 **sky, sun, and earth background** - drawn by me
 
+**tent** - drawn by me
+
 **person holding sign** - drawn by me
 
 **degree certificate** - Certificate, Graduation, Border by deMysticWay, https://pixabay.com/illustrations/certificate-graduation-border-2760736/, Pixabay Content License
