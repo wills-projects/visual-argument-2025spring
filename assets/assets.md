@@ -4,11 +4,9 @@
 
 **sky, sun, and earth background** - drawn by me
 
-**tent** - drawn by me
+**tent** - Camping, Tent, Camp by Yukiiezz, https://pixabay.com/illustrations/camping-tent-camp-adventure-8910600/, Pixabay Content License
 
 **person holding sign** - drawn by me
-
-**degree certificate** - Certificate, Graduation, Border by deMysticWay, https://pixabay.com/illustrations/certificate-graduation-border-2760736/, Pixabay Content License
 
 **woman walking** - Walking Animal Dog by Mohamed_hassan, https://pixabay.com/vectors/walking-dog-women-people-2797219/, Pixabay Content License
 
